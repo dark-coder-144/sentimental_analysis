@@ -1,4 +1,9 @@
 pandas
 numpy
-seaborn
--e .
+seaborn 
+matplotlib
+tensorflow
+transformers
+scikit-learn
+datasets
+#-e .
